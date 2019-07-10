@@ -10,17 +10,9 @@ class HomePage extends Component {
             <div>
                 <Sidebar />
                 <Box1>
-                    <p> Hello </p>
+                    <p> This website is currently under construction... </p>
+                    <p>Please view my <a href="http://www.github.com/atkinsta">github profile</a> for a portfolio of my work</p>
                 </Box1>
-                <Box2 id="nav1">
-                    <h1> OIIIIIIIII </h1>
-                </Box2>
-                <Box1 id="nav2">
-                    <p> Hello </p>
-                </Box1>
-                <Box2 id="nav3">
-                    <h1> OIIIIIIIII </h1>
-                </Box2>
             </div>
         )
     }

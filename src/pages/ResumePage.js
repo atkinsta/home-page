@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import {Document, Page} from 'react-pdf/dist/entry.webpack';
-import Resume from "../assets/TyAtkins.pdf"
+import Resume from "../assets/TyResumeFixed.pdf"
 
 class ResumePage extends Component {
 
